@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 23 14:59:33 2021
-
-@author: Admin
-"""
-
 from flask import Flask, request, render_template
 import numpy as np
 import re
